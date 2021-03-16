@@ -1,4 +1,4 @@
-# Suerto
+# DND Companion
 
 Please change branch to master to see the code.
 
